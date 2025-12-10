@@ -39,3 +39,5 @@ food-source-number — номер джерела їжі (1, 2 або 3)
 Мета: визначити, як кількість мурах впливає на швидкість збору їжі.
 Змінний параметр population = 10, 20, 40, 80
 Фіксовані: diffusion-rate = 1, evaporation-rate = 0.05
+Тривалість симуляції: 500 ticks
+(pictures/Diffusion.png)
