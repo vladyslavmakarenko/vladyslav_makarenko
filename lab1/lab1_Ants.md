@@ -49,7 +49,7 @@ food-source-number - номер джерела їжі (1, 2 або 3)
 | 50         | 81             | 78             | 82             |
 
 
-![Population](pictures/Population.png)
+![Population](Population.png)
 
 Висновки експерименту
 1. Вплив розміру популяції на швидкість збору їжі
