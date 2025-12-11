@@ -32,6 +32,9 @@ to setup
   reset-ticks
 end
 
+to clear-pheromones
+  ask patches [ set chemical 0 ]
+end
 to setup-patches
   ask patches
   [
