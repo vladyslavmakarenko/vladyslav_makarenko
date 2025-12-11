@@ -40,6 +40,13 @@ food-source-number - номер джерела їжі (1, 2 або 3)
 Змінний параметр population = 10, 20, 30, 40, 50
 Фіксовані: diffusion-rate = 1, evaporation-rate = 0.05
 Тривалість симуляції: 500 ticks
+population	food-in-pile1		
+	food-in-pile2	food-in-pile3
+10	74	107	105
+20	69	87	98
+30	66	92	95
+40	79	73	92
+50	81	78	82
 
 ![Population](pictures/Population.png)
 
